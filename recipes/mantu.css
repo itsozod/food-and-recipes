@@ -372,6 +372,7 @@ li.dropdown {
 .p {
   padding: 25px;
   font-size: 18px;
+  font-family: 'Lobster', cursive;
 }
 @media screen and (max-width: 366px) {
   .boximage {
